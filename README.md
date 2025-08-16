@@ -16,6 +16,12 @@ At some point, we may wish to update the app. The app is currently available on 
 (a) the rights and licenses granted to you in these terms will end;
 (b) you must stop using the app, and (if needed) delete it from your device.
 
+Third-Party Services
+
+Scratch Golf Leaderboard relies on third-party services, including the Slash Golf API, to provide certain features such as score tracking and leaderboard updates. While we strive to keep the app functional and up to date, we do not control these third-party services and cannot guarantee their availability, accuracy, or continued support.
+
+If Slash Golf or any other third-party provider makes changes, becomes unavailable, or discontinues its services, some features of Scratch Golf Leaderboard may be limited, disrupted, or no longer available. In such cases, we may attempt to find alternative services, but we are under no obligation to do so, and we are not liable for any interruptions, downtime, or loss of functionality that results from reliance on third-party services.
+
 Changes to These Terms and Conditions
 
 I may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms and Conditions on this page. These changes are effective immediately after they are posted on this page.
