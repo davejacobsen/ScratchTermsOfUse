@@ -28,4 +28,4 @@ I may update our Terms and Conditions from time to time. Thus, you are advised t
 
 Contact Us
 
-If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at scratchgolfapp@gmail.com.
+If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at scratchgolfleaderboard@gmail.com.
